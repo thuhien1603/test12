@@ -1,4 +1,80 @@
 /*hien*/
+.container{
+	width: 100%;
+	height: auto;
+	margin: 0 auto;
+}
+
+.navbar-brand h3{
+	width: 30%;
+	color: #ffa31a;
+	font-size: 28px;
+	padding-top: 10px;
+	margin-left: 80px;
+	text-transform: uppercase;
+}
+.collapse ul{
+	float: right;
+	list-style: none;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+
+}
+.collapse li {
+	float: left;
+	width: 14%;
+	height: 100%;
+	margin-left: 5px;
+	margin-top: 30px;
+	padding-top: 10px;
+	text-align: center;
+}
+.collapse li a{
+	color: black;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 17px;
+	margin-right: 5px;
+}
+.collapse li a:hover{
+	color: #ffa31a;
+}
+.tkhung {
+	float: left;
+	background: url(http://pgrvietnam.org.vn/wp-content/uploads/2018/05/cach-trong-cay-cam-tu-cau-va-cach-cat-tia-cham-soc-cay.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	 opacity: 0.9;
+   position: relative;
+	width: 100%;
+	height: 450px;
+}
+.tkhung h3 {
+	position: absolute;
+	left: 100px;
+	bottom: 100px;
+}
+.tkhung p {
+	position: absolute;
+	left: 100px;
+	bottom: 60px;
+}
+.fas{
+	font-size: 45px;
+	color: green;
+	position: absolute;
+	right: 10px;
+	top: 40%;
+}
+.left{
+	font-size: 45px;
+	color: green;
+	position: absolute;
+	left: 40px;
+	top: 40%;
+}
 /*khai*/
 /*duy*/
 /*quy*/
